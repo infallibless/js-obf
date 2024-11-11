@@ -81,10 +81,6 @@ You can customize the obfuscation behavior by defining various options in a `JSO
 
 For more information on available options, refer to the [JavaScript Obfuscator documentation](https://github.com/javascript-obfuscator/javascript-obfuscator#options).
 
-## License
-
-MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Contribution
 
 Feel free to contribute to this project! Open an issue or submit a pull request if you have any improvements, fixes, or ideas.
