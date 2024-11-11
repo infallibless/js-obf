@@ -1,0 +1,23 @@
+{
+    "compact": true,
+    "controlFlowFlattening": true,
+    "controlFlowFlatteningThreshold": 1,
+    "deadCodeInjection": true,
+    "deadCodeInjectionThreshold": 0.4,
+    "debugProtection": true,
+    "debugProtectionInterval": 1000,
+    "identifierNamesGenerator": "mangled",
+    "identifierNamesBlacklist": ["pedo", "child"],
+    "numbersToExpressions": true,
+    "renameGlobals": false,
+    "rotateStringArray": true,
+    "stringArray": true,
+    "stringArrayEncoding": ["base64"],
+    "stringArrayThreshold": 0.75,
+    "simplify": true,
+    "selfDefending": true,
+    "sourceMap": true,
+    "sourceMapMode": "separate",
+    "unicodeEscapeSequence": false
+  }
+  
